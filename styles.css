@@ -3,6 +3,8 @@ body {
   background-color: black;
 }
 
+/* Headings */
+
 h1 {
   text-align: center;
   color: gray;
@@ -13,6 +15,8 @@ h2 {
   color: gray;
   padding-top: 2em;
 }
+
+/* Tables */
 
 table {
   border: 2px solid darkgray;
@@ -32,4 +36,8 @@ td {
   text-align: center;
   color: gray;
   height: 2em;
+}
+
+.css-sample-table {
+  margin-bottom: 5em;
 }
