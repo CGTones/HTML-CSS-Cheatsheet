@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: gray;
+}
+
+h2 {
+  text-align: center;
+  color: gray;
+}
+
+table {
+  border: 2px solid darkgray;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: darkslateblue;
+  color: darkgray;
+  margin: 0 auto;
+  height: 2em;
+}
+
+td {
+  border-bottom: 1px solid darkslateblue;
+  text-align: center;
+  color: gray;
+  height: 2em;
+}
